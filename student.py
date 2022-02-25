@@ -1,5 +1,7 @@
 def main():
     #your code goes here, make sure it's indented
+    verb = input("")
+    print(verb,"\bing")
     
 
     
